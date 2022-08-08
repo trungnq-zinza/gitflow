@@ -1,4 +1,4 @@
 noi dung c
 cap nhat boi code
-cap nhat boi clone
+cap nhat boi clone true
 
